@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+schema.sql
+seed_charities.sql
+
+low_level_design.md
+
+tsc_error.txt
+
+build_log.txt
+build_output.txt
+build.log
+build2.log
+
+AGENTS.md
+CLAUDE.md
+
