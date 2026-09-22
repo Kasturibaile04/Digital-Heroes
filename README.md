@@ -1,8 +1,8 @@
-# Digital Heroes
+# Digital Heroes 🏌️‍♂️🌍
 
-**Play golf. Support charity. Win monthly prizes.**
+**Live App:** [https://digital-heroes-web-one.vercel.app](https://digital-heroes-web-one.vercel.app)
 
-Digital Heroes is a subscription-based web platform where golfers log their Stableford scores, contribute to charities they care about, and enter monthly prize draws — all in one place.
+A modern, performance-driven web platform that transforms golf rounds into real-world charitable impacts. Designed with a premium, brutalist-inspired UI, Digital Heroes incentivizes players by tracking their scores and automatically routing a percentage of their earnings to verified global charities.
 
 ---
 
