@@ -51,9 +51,23 @@ build_log.txt
 build_output.txt
 build.log
 build2.log
+build_output.log
 
 AGENTS.md
 CLAUDE.md
+
+eslint_errors_clean.json
+eslint_errors.json
+eslint_output.txt
+
+parsed_errors.txt
+rules.txt
+
+tsc_error.txt
+
+
+
+
 
 
 

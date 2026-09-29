@@ -71,7 +71,7 @@ export default function CharitySelectionPage() {
         setSaving(true);
         setSuccess(false);
 
-        let newAllocs = [...activeAllocations];
+        const newAllocs = [...activeAllocations];
         const existingIndex = newAllocs.findIndex(a => a.id === selected);
         if (existingIndex > -1) {
             newAllocs[existingIndex].pct = pct;
